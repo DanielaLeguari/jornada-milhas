@@ -4,6 +4,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
+
+
+![Banana](./src/assets/imagens/projeto.png)
+
+
 ## Criação do projeto
 
 - `npm install -g @angular/cli@16.0.0.`;
